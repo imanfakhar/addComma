@@ -7,7 +7,7 @@ To install copy the addComma.min.js file into your project and add the following
 &lt;script src="addComma.min.js"&gt;&lt;/script&gt;
 <pre>
 and Call <code>addComma()</code> 
-Usage:
+For example:
 <pre>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
@@ -25,5 +25,4 @@ $('input').addComma();
 &lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</pre>
-Example:
-example.html
+also read the <a href="example.html">example.html</a>
